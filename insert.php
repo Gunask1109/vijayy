@@ -35,7 +35,13 @@
    // echo 'My hero name: ' .$row['name'];  
      if($term == 'vijay')  {
     header('Location: index.php');
-    }else{
+    }
+        else if($term == 'Sivakarthikeyan')
+        {
+          header('Location: sk.php');  
+        }
+        
+        else{
         echo "wrong name";
     }
    // }  

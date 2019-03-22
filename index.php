@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="index.css">
+    
     <title>Hello, world!</title>
       
       <style>
@@ -15,9 +15,10 @@
               margin-bottom:5px;
           }
       </style>
+      <link rel="stylesheet" type="text/css" href="main.css">
   </head>
   <body>
-   
+      <div class="back">
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#"><img class="img-circle" src="img/logo1.jpg"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,6 +49,7 @@
     
   </div>
 </nav>
+    </div>
       
       
       
@@ -202,7 +204,7 @@
       <div class="contact" id="contact">
       <h1 align="center">Contact Details</h1>
       </div>
-      <hr>
+    
       
       <div class="container-fluid">
       <div class="row">

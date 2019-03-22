@@ -13,7 +13,7 @@
   <body>
    
     <div class="container-fluid" style="margin-top:20%">
-        <div class="row justify-content-md-center">
+        <div class="row justify-content-md-center" style="color:white">
             
   <h1>Here search your Hero</h1>
       
